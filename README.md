@@ -4,7 +4,7 @@ I have covid-19 helpline website with azure web app and azure storage accounts. 
 I used storage accounts to store the source code.
 
 
-project link(my website link): https://icy-beach-01e818310.1.azurestaticapps.net/#symptoms
+project link(my website link): 
 
 Some of the images screenshots take while creating bot chat(Steps followed)
 
